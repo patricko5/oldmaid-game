@@ -1,4 +1,4 @@
-#Old Maid Card Game
+# Old Maid Card Game
 ##Introduction
 Old Maid is a classic card game, reimagined and brought to life through modern software development techniques. This project showcases a virtual rendition of Old Maid, utilizing advanced programming concepts to create an engaging and interactive experience. Developed in C++, this game features a blend of traditional gameplay with the convenience and accessibility of digital technology.
 

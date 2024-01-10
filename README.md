@@ -60,3 +60,18 @@ The game starts with a shuffled deck. One Queen is removed to begin the game.
    ```
    ./cardGame
    ```
+
+## Running Tests
+
+To run the unit tests for the Old Maid Card Game, follow these steps:
+
+1. **Compile the Test Suite:** 
+   In the project directory, compile the tests using the following command:
+   ```
+   make testGame
+   ```
+2. **Execute the Tests:**
+   Once the tests are compiled, you can run them with:
+   ```
+   ./test_project
+   ```

@@ -1,8 +1,8 @@
 #include "OldMaidDeck.h"
-#include <algorithm> // For std::shuffle
-#include <random>    // For random number generation
-#include <chrono>    // For std::chrono::system_clock
-#include <vector>    // For std::vector
+#include <algorithm>
+#include <random>
+#include <chrono>
+#include <vector>
 
 void OldMaidDeck::create() {
     // Create a standard deck

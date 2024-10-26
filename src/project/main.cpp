@@ -1,6 +1,6 @@
 #include "OldMaid.h"
-#include "OldMaidUI.h"   // If you have a specific UI for Old Maid
-#include "OldMaidDeck.h" // If you have a specific deck for Old Maid
+#include "OldMaidUI.h"  
+#include "OldMaidDeck.h" 
 #include "Player.h"
 
 int main()
